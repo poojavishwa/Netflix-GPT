@@ -1,3 +1,5 @@
+export const MAIN_LOGO ="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456"
+
 export const IMG_LOGO =
 "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png"
 
@@ -25,3 +27,4 @@ export const API_OPTIONS = {
   ];
 
   export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
+
